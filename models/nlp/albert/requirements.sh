@@ -5,6 +5,6 @@ pip install --no-cache-dir \
         colorama==0.4.3 \
         pandas \
         apache_beam \
-        pyarrow==0.16 \
+        pyarrow==7.0.0 \
         git+https://github.com/HerringForks/transformers.git@master \
         git+https://github.com/huggingface/nlp.git@703b761
