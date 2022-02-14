@@ -1,6 +1,6 @@
 pip install --no-cache-dir \
-        scikit-learn==0.23.1 \
-        wandb==0.9.1 \
+        scikit-learn==1.0.2 \
+        wandb==0.12.10 \
         tensorflow-addons \
         colorama==0.4.3 \
         pandas \
